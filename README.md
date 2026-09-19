@@ -143,22 +143,6 @@ DVoteSystem/
 
 ---
 
-## 📸 Screenshots
-
-### Login & Biometric
-_Add screenshot here_
-
-### Home & Profile
-_Add screenshot here_
-
-### Digital Ballot & QR Scan
-_Add screenshot here_
-
-### Admin Dashboard (Web)
-_Add screenshot here_
-
----
-
 ## 🔮 Future Enhancements
 *   **Blockchain Integration**: Transition to a decentralized ledger for immutable vote records.
 *   **AI Face Match**: Secondary identity verification using live camera feeds.
