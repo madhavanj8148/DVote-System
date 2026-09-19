@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DVote சிஸ்டம்</string>
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_vote">வாக்கு</string>
+    <string name="nav_results">முடிவுகள்</string>
+    <string name="nav_profile">சுயவிவரம்</string>
+    <string name="election_status">தேர்தல் நிலை</string>
+    <string name="quick_actions">விரைவான செயல்கள்</string>
+    <string name="admin_dashboard_upper">நிர்வாக டாஷ்போர்டு</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back">மீண்டும் வருக,</string>
+    <string name="sign_in_to_continue">தொடர உள்நுழையவும்</string>
+    <string name="create_account">கணக்கை உருவாக்கு</string>
+    <string name="create_new_account">புதிய கணக்கை உருவாக்கு</string>
+    <string name="already_have_account">ஏற்கனவே கணக்கு உள்ளதா? உள்நுழையவும்</string>
+    <string name="join_secure_voting">பாதுகாப்பான வாக்குப்பதிவு தளத்தில் இணையுங்கள்</string>
+    <string name="secure_transparent_digital">பாதுகாப்பான • வெளிப்படையான • டிஜிட்டல்</string>
+    <string name="secure_access">பாதுகாப்பான அணுகல்</string>
+    <string name="authenticate_desc">உங்கள் அடையாளத்தை உறுதிப்படுத்த அங்கீகரிக்கவும்</string>
+    <string name="authenticate_now">இப்போது அங்கீகரிக்கவும்</string>
+
+    <!-- Main Features -->
+    <string name="elections">தேர்தல்கள்</string>
+    <string name="verify_voter_qr">வாக்காளர் QR-ஐ சரிபார்க்கவும்</string>
+    <string name="cast_vote">வாக்களிக்கவும்</string>
+    <string name="live_results">நேரலை முடிவுகள்</string>
+    <string name="live_counting">நேரலை எண்ணுதல்</string>
+    <string name="election_results">தேர்தல் முடிவுகள்</string>
+    <string name="select_preferred_candidate">உங்களுக்கு விருப்பமான வேட்பாளரைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="my_profile">எனது சுயவிவரம்</string>
+    <string name="voting_status">வாக்களிப்பு நிலை</string>
+    <string name="active_now">இப்போது செயலில் உள்ளது</string>
+    <string name="current_election">தற்போதைய தேர்தல்</string>
+    <string name="gen_election_2024">பொதுத் தேர்தல் 2024</string>
+    <string name="view_all_candidates">அனைத்து வேட்பாளர்களையும் பார்க்கவும்</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc">QR குறியீட்டை சட்டத்திற்குள் சீரமைக்கவும்</string>
+    <string name="open_scanner">ஸ்கேனரைத் திறக்கவும்</string>
+    <string name="qr_verification">QR சரிபார்ப்பு</string>
+    <string name="scanner_icon_desc">ஸ்கேனர் ஐகான்</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name">வேட்பாளர் பெயர்</string>
+    <string name="party_name">கட்சி பெயர்</string>
+    <string name="vote">வாக்கு</string>
+    <string name="votes">வாக்குகள்</string>
+    <string name="winner_tag">வெற்றியாளர்</string>
+    <string name="primary_slogan">உங்கள் வாக்கு உங்கள் குரல்</string>
+    <string name="secondary_slogan">பாதுகாப்பான டிஜிட்டல் வாக்குப்பதிவு மூலம் தேசத்தை வலுப்படுத்துதல்.</string>
+    <string name="telugu_slogan">உங்கள் வாக்கு உங்கள் உரிமை</string>
+    <string name="english_slogan">உங்கள் வாக்கு உங்கள் உரிமை.</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric">பயோமெட்ரிக் சரிபார்க்கப்படுகிறது&#8230;</string>
+    <string name="namaste_desc">வணக்கம் விளக்கம்</string>
+    <string name="fingerprint_desc">கைரேகை ஸ்கேனர்</string>
+
+    <!-- Localization -->
+    <string name="select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="search_language">மொழியைத் தேடவும்&#8230;</string>
+    <string name="english">ஆங்கிலம்</string>
+    <string name="telugu">தெலுங்கு</string>
+    <string name="hindi">இந்தி</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint">மின்னஞ்சல் முகவரி</string>
+    <string name="password_hint">கடவுச்சொல்</string>
+    <string name="sign_in">உள்நுழையவும்</string>
+    <string name="full_name_hint">முழு பெயர்</string>
+    <string name="phone_hint">தொலைபேசி எண்</string>
+    <string name="aadhaar_hint">ஆதார் எண்</string>
+    <string name="voter_id_hint">வாக்காளர் அடையாள அட்டை</string>
+    <string name="create_password_hint">கடவுச்சொல்லை உருவாக்கவும்</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet">இணைய இணைப்பு இல்லை. உங்கள் நெட்வொர்க்கைச் சரிபார்க்கவும்.</string>
+    <string name="email_required">மின்னஞ்சல் தேவை</string>
+    <string name="valid_email">சரியான மின்னஞ்சலை உள்ளிடவும்</string>
+    <string name="password_required">கடவுச்சொல் தேவை</string>
+    <string name="authenticating">அங்கீகரிக்கப்படுகிறது&#8230;</string>
+    <string name="welcome_back_toast">மீண்டும் வருக!</string>
+    <string name="auth_failed">அங்கீகாரம் தோல்வியடைந்தது</string>
+    <string name="fill_all_fields">அனைத்து புலங்களையும் நிரப்பவும்</string>
+    <string name="creating_account">பாதுகாப்பான கணக்கு உருவாக்கப்படுகிறது&#8230;</string>
+    <string name="reg_success">பதிவு வெற்றிகரமாக முடிந்தது!</string>
+    <string name="access_denied_admin">அணுகல் மறுக்கப்பட்டது: நிர்வாகிக்கு மட்டும்</string>
+    <string name="error_label">பிழை</string>
+    <string name="logged_out">வெளியேறப்பட்டது</string>
+    <string name="voted">வாக்களித்தார்</string>
+    <string name="not_voted">வாக்களிக்கவில்லை</string>
+    <string name="profile_not_found">தரவுத்தளத்தில் சுயவிவரம் காணப்படவில்லை. மீண்டும் பதிவு செய்ய முயற்சிக்கவும்.</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required">பாதுகாப்பு பிழை: பயனர் அங்கீகரிக்கப்படவில்லை</string>
+    <string name="checking_status">வாக்களிப்பு நிலை சரிபார்க்கப்படுகிறது&#8230;</string>
+    <string name="multiple_voting_alert">பாதுகாப்பு எச்சரிக்கை: பலமுறை வாக்களிப்பது தடைசெய்யப்பட்டுள்ளது.</string>
+    <string name="network_error">நெட்வொர்க் பிழை</string>
+    <string name="loading_candidates">வேட்பாளர்கள் ஏற்றப்படுகிறார்கள்&#8230;</string>
+    <string name="failed_load_candidates">வேட்பாளர்களை ஏற்றுவதில் தோல்வி</string>
+    <string name="vote_confirm_msg">%1$s-க்கு வாக்களிக்கவா?\nஇந்தச் செயல் நிரந்தரமானது.</string>
+    <string name="processing_vote">வாக்கு பாதுகாப்பாகச் செயல்படுத்தப்படுகிறது&#8230;</string>
+    <string name="already_voted_error">பிழை: வாக்கு ஏற்கனவே செலுத்தப்பட்டது.</string>
+    <string name="transaction_failed">பரிவர்த்தனை தோல்வியடைந்தது.</string>
+    <string name="vote_recorded_success">வாக்கு வெற்றிகரமாகப் பதிவு செய்யப்பட்டது</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">நிர்வாக டாஷ்போர்டு</string>
+    <string name="candidate_mgmt">வேட்பாளர் நிர்வாகம்</string>
+    <string name="add_new_candidate">புதிய வேட்பாளரைச் சேர்க்கவும்</string>
+    <string name="edit_delete_candidates">வேட்பாளர்களைத் திருத்தவும் / நீக்கவும்</string>
+    <string name="election_ctrl">தேர்தல் கட்டுப்பாடு</string>
+    <string name="start_btn">தொடங்கு</string>
+    <string name="stop_btn">நிறுத்து</string>
+    <string name="reset_btn">அனைத்து தேர்தல் தரவையும் மீட்டமைக்கவும்</string>
+    <string name="monitoring">கண்காணிப்பு</string>
+    <string name="view_user_list">பயனர் பட்டியலைப் பார்க்கவும்</string>
+    <string name="real_time_results">நிகழ்நேர முடிவுகள்</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn">சேர்</string>
+    <string name="cancel_btn">ரத்து செய்</string>
+    <string name="name_party_req">பெயர் மற்றும் கட்சி தேவை</string>
+    <string name="candidate_added">வேட்பாளர் சேர்க்கப்பட்டார்</string>
+    <string name="election_started">தேர்தல் தொடங்கியது</string>
+    <string name="election_ended">தேர்தல் முடிந்தது</string>
+    <string name="reset_election">தேர்தலை மீட்டமைக்கவும்</string>
+    <string name="reset_confirm_msg">இது அனைத்து வாக்குகளையும் அழித்து பயனர் வாக்களிப்பு நிலையை மீட்டமைக்கும். தொடரவா?</string>
+    <string name="reset_complete">தேர்தல் மீட்டமைப்பு முடிந்தது</string>
+</resources>

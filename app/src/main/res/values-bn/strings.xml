@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DVote সিস্টেম</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_vote">ভোট</string>
+    <string name="nav_results">ফলাফল</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="election_status">নির্বাচনের অবস্থা</string>
+    <string name="quick_actions">দ্রুত পদক্ষেপ</string>
+    <string name="admin_dashboard_upper">অ্যাডমিন ড্যাশবোর্ড</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back">স্বাগতম,</string>
+    <string name="sign_in_to_continue">এগিয়ে যেতে সাইন ইন করুন</string>
+    <string name="create_account">অ্যাকাউন্ট তৈরি করুন</string>
+    <string name="create_new_account">নতুন অ্যাকাউন্ট তৈরি করুন</string>
+    <string name="already_have_account">ইতিমধ্যেই অ্যাকাউন্ট আছে? লগইন করুন</string>
+    <string name="join_secure_voting">সুরক্ষিত ভোটিং প্ল্যাটফর্মে যোগ দিন</string>
+    <string name="secure_transparent_digital">সুরক্ষিত • স্বচ্ছ • ডিজিটাল</string>
+    <string name="secure_access">সুরক্ষিত প্রবেশ</string>
+    <string name="authenticate_desc">আপনার পরিচয় নিশ্চিত করতে প্রমাণীকরণ করুন</string>
+    <string name="authenticate_now">এখনই প্রমাণীকরণ করুন</string>
+
+    <!-- Main Features -->
+    <string name="elections">নির্বাচনসমূহ</string>
+    <string name="verify_voter_qr">ভোটার QR যাচাই করুন</string>
+    <string name="cast_vote">ভোট দিন</string>
+    <string name="live_results">লাইভ ফলাফল</string>
+    <string name="live_counting">লাইভ গণনা</string>
+    <string name="election_results">নির্বাচনের ফলাফল</string>
+    <string name="select_preferred_candidate">আপনার পছন্দের প্রার্থী বেছে নিন</string>
+    <string name="my_profile">আমার প্রোফাইল</string>
+    <string name="voting_status">ভোটিং স্ট্যাটাস</string>
+    <string name="active_now">এখন সক্রিয়</string>
+    <string name="current_election">বর্তমান নির্বাচন</string>
+    <string name="gen_election_2024">সাধারণ নির্বাচন ২০২৪</string>
+    <string name="view_all_candidates">সমস্ত প্রার্থী দেখুন</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc">ফ্রেমের মধ্যে QR কোডটি রাখুন</string>
+    <string name="open_scanner">স্ক্যানার খুলুন</string>
+    <string name="qr_verification">QR যাচাইকরণ</string>
+    <string name="scanner_icon_desc">স্ক্যানার আইকন</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name">প্রার্থীর নাম</string>
+    <string name="party_name">দলের নাম</string>
+    <string name="vote">ভোট</string>
+    <string name="votes">ভোটসমূহ</string>
+    <string name="winner_tag">বিজয়ী</string>
+    <string name="primary_slogan">আপনার ভোট আপনার কণ্ঠস্বর</string>
+    <string name="secondary_slogan">সুরক্ষিত ডিজিটাল ভোটিংয়ের মাধ্যমে জাতিকে ক্ষমতায়ন করা।</string>
+    <string name="telugu_slogan">আপনার ভোট আপনার অধিকার</string>
+    <string name="english_slogan">আপনার ভোট আপনার অধিকার।</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric">বায়োমেট্রিক যাচাই করা হচ্ছে&#8230;</string>
+    <string name="namaste_desc">নমস্তে চিত্র</string>
+    <string name="fingerprint_desc">ফিঙ্গারপ্রিন্ট স্ক্যানার</string>
+
+    <!-- Localization -->
+    <string name="select_language">ভাষা নির্বাচন করুন</string>
+    <string name="search_language">ভাষা খুঁজুন&#8230;</string>
+    <string name="english">ইংরেজি</string>
+    <string name="telugu">তেলেগু</string>
+    <string name="hindi">বাংলা</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint">ইমেল ঠিকানা</string>
+    <string name="password_hint">পাসওয়ার্ড</string>
+    <string name="sign_in">সাইন ইন</string>
+    <string name="full_name_hint">পুরো নাম</string>
+    <string name="phone_hint">ফোন নম্বর</string>
+    <string name="aadhaar_hint">আধার নম্বর</string>
+    <string name="voter_id_hint">ভোটার আইডি</string>
+    <string name="create_password_hint">পাসওয়ার্ড তৈরি করুন</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet">ইন্টারনেট সংযোগ নেই। আপনার নেটওয়ার্ক পরীক্ষা করুন।</string>
+    <string name="email_required">ইমেল প্রয়োজন</string>
+    <string name="valid_email">সঠিক ইমেল লিখুন</string>
+    <string name="password_required">পাসওয়ার্ড প্রয়োজন</string>
+    <string name="authenticating">প্রমাণীকরণ করা হচ্ছে&#8230;</string>
+    <string name="welcome_back_toast">স্বাগতম!</string>
+    <string name="auth_failed">প্রমাণীকরণ ব্যর্থ হয়েছে</string>
+    <string name="fill_all_fields">অনুগ্রহ করে সব তথ্য পূরণ করুন</string>
+    <string name="creating_account">সুরক্ষিত অ্যাকাউন্ট তৈরি করা হচ্ছে&#8230;</string>
+    <string name="reg_success">নিবন্ধন সফল হয়েছে!</string>
+    <string name="access_denied_admin">প্রবেশাধিকার নেই: শুধুমাত্র অ্যাডমিনের জন্য</string>
+    <string name="error_label">ত্রুটি</string>
+    <string name="logged_out">লগ আউট হয়েছে</string>
+    <string name="voted">ভোট দিয়েছেন</string>
+    <string name="not_voted">ভোট দেননি</string>
+    <string name="profile_not_found">ডাটাবেসে প্রোফাইল পাওয়া যায়নি। আবার চেষ্টা করুন।</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required">নিরাপত্তা ত্রুটি: ব্যবহারকারী অনুমোদিত নয়</string>
+    <string name="checking_status">ভোটিং স্ট্যাটাস পরীক্ষা করা হচ্ছে&#8230;</string>
+    <string name="multiple_voting_alert">নিরাপত্তা সতর্কতা: একাধিকবার ভোট দেওয়া নিষিদ্ধ।</string>
+    <string name="network_error">নেটওয়ার্ক ত্রুটি</string>
+    <string name="loading_candidates">প্রার্থীদের তালিকা লোড হচ্ছে&#8230;</string>
+    <string name="failed_load_candidates">প্রার্থীদের তালিকা লোড করতে ব্যর্থ</string>
+    <string name="vote_confirm_msg">%1$s কে ভোট দিতে চান?\nএই প্রক্রিয়াটি স্থায়ী।</string>
+    <string name="processing_vote">ভোট সুরক্ষিতভাবে প্রক্রিয়া করা হচ্ছে&#8230;</string>
+    <string name="already_voted_error">ত্রুটি: ভোট ইতিপূর্বেই দেওয়া হয়েছে।</string>
+    <string name="transaction_failed">প্রক্রিয়াটি ব্যর্থ হয়েছে।</string>
+    <string name="vote_recorded_success">ভোট সফলভাবে রেকর্ড করা হয়েছে</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">অ্যাডমিন ড্যাশবোর্ড</string>
+    <string name="candidate_mgmt">প্রার্থী ব্যবস্থাপনা</string>
+    <string name="add_new_candidate">নতুন প্রার্থী যোগ করুন</string>
+    <string name="edit_delete_candidates">প্রার্থী সংশোধন / বাতিল করুন</string>
+    <string name="election_ctrl">নির্বাচন নিয়ন্ত্রণ</string>
+    <string name="start_btn">শুরু করুন</string>
+    <string name="stop_btn">বন্ধ করুন</string>
+    <string name="reset_btn">সমস্ত নির্বাচনের তথ্য রিসেট করুন</string>
+    <string name="monitoring">পর্যবেক্ষণ</string>
+    <string name="view_user_list">ব্যবহারকারীর তালিকা দেখুন</string>
+    <string name="real_time_results">রিয়েল-টাইম ফলাফল</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn">যোগ করুন</string>
+    <string name="cancel_btn">বাতিল করুন</string>
+    <string name="name_party_req">নাম এবং দলের নাম প্রয়োজন</string>
+    <string name="candidate_added">প্রার্থী যোগ করা হয়েছে</string>
+    <string name="election_started">নির্বাচন শুরু হয়েছে</string>
+    <string name="election_ended">নির্বাচন শেষ হয়েছে</string>
+    <string name="reset_election">নির্বাচন রিসেট করুন</string>
+    <string name="reset_confirm_msg">এটি সমস্ত ভোট মুছে দেবে এবং ব্যবহারকারীর ভোটের স্ট্যাটাস রিসেট করবে। এগিয়ে যেতে চান?</string>
+    <string name="reset_complete">নির্বাচন রিসেট সম্পন্ন হয়েছে</string>
+</resources>

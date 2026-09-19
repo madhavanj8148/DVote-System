@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">DVote ᱰᱟᱦᱟᱨ</string>
+    <string name="nav_home">ᱳᱲᱟᱜ</string>
+    <string name="nav_vote">ᱵᱷᱳᱴ</string>
+    <string name="nav_results">ᱚᱨᱡᱚ</string>
+    <string name="nav_profile">ᱩᱯᱨᱩᱢ</string>
+    <string name="election_status">ᱵᱟᱪᱷᱱᱟᱣ ᱚᱵᱚᱥᱛᱷᱟ</string>
+    <string name="quick_actions">ᱞᱚᱜᱚᱱ ᱠᱟᱹᱢᱤ</string>
+    <string name="admin_dashboard_upper">ᱮᱰᱢᱤᱱ ᱰᱮᱥᱵᱳᱨᱰ</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back">ᱫᱚᱲᱦᱟ ᱛᱮ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ,</string>
+    <string name="sign_in_to_continue">ᱞᱟᱦᱟᱜ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱭᱤᱱ ᱤᱱ ᱢᱮ</string>
+    <string name="create_account">ᱮᱠᱟᱶᱴ ᱵᱮᱱᱟᱣ ᱢᱮ</string>
+    <string name="create_new_account">ᱱᱟᱶᱟ ᱮᱠᱟᱶᱴ ᱵᱮᱱᱟᱣ ᱢᱮ</string>
+    <string name="already_have_account">ᱮᱠᱟᱶᱴ ᱢᱮᱱᱟᱜ ᱛᱟᱢᱟ? ᱞᱚᱜᱤᱱ ᱢᱮ</string>
+    <string name="join_secure_voting">ᱥᱩᱨᱚᱠᱷᱤᱛ ᱵᱷᱳᱴᱤᱝ ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱢᱮ</string>
+    <string name="secure_transparent_digital">ᱥᱩᱨᱚᱠᱷᱤᱛ • ᱯᱷᱟᱨᱪᱟ • ᱰᱤᱡᱤᱴᱟᱞ</string>
+    <string name="secure_access">ᱥᱩᱨᱚᱠᱷᱤᱛ ᱵᱚᱞᱚᱱ</string>
+    <string name="authenticate_desc">ᱩᱯᱨᱩᱢ ᱯᱚᱨᱢᱟᱬ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱪᱤᱱᱦᱟᱹᱯ ᱢᱮ</string>
+    <string name="authenticate_now">ᱱᱤᱛᱚᱜ ᱜᱮ ᱪᱤᱱᱦᱟᱹᱯ ᱢᱮ</string>
+
+    <!-- Main Features -->
+    <string name="elections">ᱵᱟᱪᱷᱱᱟᱣ ᱠᱚ</string>
+    <string name="verify_voter_qr">ᱵᱷᱳᱴᱟᱨ QR ᱯᱚᱨᱢᱟᱬ ᱢᱮ</string>
+    <string name="cast_vote">ᱵᱷᱳᱴ ᱮᱢ ᱢᱮ</string>
+    <string name="live_results">ᱞᱟᱭᱤᱵᱷ ᱚᱨᱡᱚ</string>
+    <string name="live_counting">ᱞᱟᱭᱤᱵᱷ ᱞᱮᱠᱷᱟ</string>
+    <string name="election_results">ᱵᱟᱪᱷᱱᱟᱣ ᱚᱨᱡᱚ</string>
+    <string name="select_preferred_candidate">ᱠᱩᱥᱤᱭᱟᱹᱱᱤᱡ ᱠᱮᱱᱰᱤᱰᱮᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ</string>
+    <string name="my_profile">ᱤᱧᱟᱹᱜ ᱩᱯᱨᱩᱢ</string>
+    <string name="voting_status">ᱵᱷᱳᱴᱤᱝ ᱚᱵᱚᱥᱛᱷᱟ</string>
+    <string name="active_now">ᱱᱤᱛᱚᱜ ᱪᱟᱹᱞᱩ ᱢᱮᱱᱟᱜᱼᱟ</string>
+    <string name="current_election">ᱱᱤᱛᱚᱜᱟᱜ ᱵᱟᱪᱷᱱᱟᱣ</string>
+    <string name="gen_election_2024">ᱥᱟᱫᱷᱟᱨᱚᱬ ᱵᱟᱪᱷᱱᱟᱣ ᱒᱐᱒᱔</string>
+    <string name="view_all_candidates">ᱡᱚᱛᱚ ᱠᱮᱱᱰᱤᱰᱮᱴ ᱠᱚ ᱧᱮᱞ ᱠᱚᱢ</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc">QR ᱠᱳᱰ ᱯᱷᱨᱮᱢ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ</string>
+    <string name="open_scanner">ᱥᱠᱮᱱᱟᱨ ᱡᱷᱤᱡ ᱢᱮ</string>
+    <string name="qr_verification">QR ᱯᱚᱨᱢᱟᱬ</string>
+    <string name="scanner_icon_desc">ᱥᱠᱮᱱᱟᱨ ᱪᱤᱱᱦᱟᱹ</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name">ᱠᱮᱱᱰᱤᱰᱮᱴ ᱧᱩᱛᱩᱢ</string>
+    <string name="party_name">ᱯᱟᱨᱴᱤ ᱧᱩᱛᱩᱢ</string>
+    <string name="vote">ᱵᱷᱳᱴ</string>
+    <string name="votes">ᱵᱷᱳᱴ ᱠᱚ</string>
+    <string name="winner_tag">ᱡᱤᱛᱠᱟᱹᱨᱤᱭᱟᱹ</string>
+    <string name="primary_slogan">ᱟᱢᱟᱜ ᱵᱷᱳᱴ ᱟᱢᱟᱜ ᱟᱲᱟᱝ</string>
+    <string name="secondary_slogan">ᱥᱩᱨᱚᱠᱷᱤᱛ ᱰᱤᱡᱤᱴᱟᱞ ᱵᱷᱳᱴᱤᱝ ᱛᱮ ᱫᱤᱥᱚᱢ ᱫᱟᱲᱮᱭᱟᱱ ᱵᱮᱱᱟᱣ ᱢᱮ।</string>
+    <string name="telugu_slogan">ᱟᱢᱟᱜ ᱵᱷᱳᱴ ᱟᱢᱟᱜ ᱦᱚᱠ</string>
+    <string name="english_slogan">ᱟᱢᱟᱜ ᱵᱷᱳᱴ ᱟᱢᱟᱜ ᱦᱚᱠ।</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric">ᱵᱟᱭᱳᱢᱮᱴᱨᱤᱠ ᱯᱚᱨᱢᱟᱬᱚᱜ ᱠᱟᱱᱟ&#8230;</string>
+    <string name="namaste_desc">ᱡᱚᱦᱟᱨ ᱪᱤᱛᱟᱹᱨ</string>
+    <string name="fingerprint_desc">ᱛᱤᱼᱠᱟᱹᱴᱩᱵ ᱥᱠᱮᱱᱟᱨ</string>
+
+    <!-- Localization -->
+    <string name="select_language">ᱯᱟᱹᱨᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱢᱮ</string>
+    <string name="search_language">ᱯᱟᱹᱨᱥᱤ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ&#8230;</string>
+    <string name="english">ᱤᱝᱞᱤᱥ</string>
+    <string name="telugu">ᱛᱮᱞᱩᱜᱩ</string>
+    <string name="hindi">ᱥᱟᱱᱛᱟᱲᱤ</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint">ᱤᱢᱮᱞ ᱴᱷᱤᱠᱟᱹᱱᱟ</string>
+    <string name="password_hint">ᱯᱟᱥᱣᱟᱨᱰ</string>
+    <string name="sign_in">ᱥᱟᱭᱤᱱ ᱤᱱ</string>
+    <string name="full_name_hint">ᱯᱩᱨᱟᱹ ᱧᱩᱛᱩᱢ</string>
+    <string name="phone_hint">ᱯᱷᱳᱱ ᱱᱚᱢᱵᱚᱨ</string>
+    <string name="aadhaar_hint">ᱟᱫᱷᱟᱨ ᱱᱚᱢᱵᱚᱨ</string>
+    <string name="voter_id_hint">ᱵᱷᱳᱴᱟᱨ ᱟᱭᱰᱤ</string>
+    <string name="create_password_hint">ᱯᱟᱥᱣᱟᱨᱰ ᱵᱮᱱᱟᱣ ᱢᱮ</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet">ᱤᱱᱴᱟᱨᱱᱮᱴ ᱵᱟᱹᱱᱩᱜᱼᱟ। ᱱᱮᱴᱣᱟᱨᱠ ᱪᱮᱠ ᱢᱮ।</string>
+    <string name="email_required">ᱤᱢᱮᱞ ᱞᱟᱹᱠᱛᱤᱭᱟ</string>
+    <string name="valid_email">ᱥᱟᱹᱨᱤ ᱤᱢᱮᱞ ᱚᱞ ᱢᱮ</string>
+    <string name="password_required">ᱯᱟᱥᱣᱟᱨᱰ ᱞᱟᱹᱠᱛᱤᱭᱟ</string>
+    <string name="authenticating">ᱯᱚᱨᱢᱟᱬᱚᱜ ᱠᱟᱱᱟ&#8230;</string>
+    <string name="welcome_back_toast">ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!</string>
+    <string name="auth_failed">ᱪᱤᱱᱦᱟᱹᱯ ᱵᱟᱝ ᱦᱩᱭ ᱞᱮᱱᱟ</string>
+    <string name="fill_all_fields">ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱡᱚᱛᱚᱣᱟᱜ ᱚᱞ ᱢᱮ</string>
+    <string name="creating_account">ᱥᱩᱨᱚᱠᱷᱤᱛ ᱮᱠᱟᱶᱴ ᱵᱮᱱᱟᱣᱜ ᱠᱟᱱᱟ&#8230;</string>
+    <string name="reg_success">ᱱᱟᱯᱟᱭ ᱛᱮ ᱨᱮᱡᱤᱥᱴᱟᱨ ᱦᱩᱭ ᱞᱮᱱᱟ!</string>
+    <string name="access_denied_admin">ᱵᱚᱞᱚᱱ ᱢᱟᱱᱟ ᱜᱮᱭᱟ: ᱮᱰᱢᱤᱱ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱟᱹᱞᱤ</string>
+    <string name="error_label">ᱵᱷᱩᱞ</string>
+    <string name="logged_out">ᱞᱚᱜ ᱟᱶᱴ ᱮᱱᱟ</string>
+    <string name="voted">ᱵᱷᱳᱴ ᱮᱢ ᱟᱠᱟᱱᱟ</string>
+    <string name="not_voted">ᱵᱷᱳᱴ ᱵᱟᱝ ᱮᱢ ᱟᱠᱟᱱᱟ</string>
+    <string name="profile_not_found">ᱩᱯᱨᱩᱢ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ। ᱫᱚᱲᱦᱟ ᱛᱮ ᱨᱮᱡᱤᱥᱴᱟᱨ ᱢᱮ।</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required">ᱥᱩᱨᱚᱠᱷᱤᱛ ᱵᱷᱩᱞ: ᱩᱯᱨᱩᱢ ᱵᱟᱹᱱᱩᱜᱼᱟ</string>
+    <string name="checking_status">ᱵᱷᱳᱴᱤᱝ ᱚᱵᱚᱥᱛᱷᱟ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ&#8230;</string>
+    <string name="multiple_voting_alert">ᱥᱩᱨᱚᱠᱷᱤᱛ ᱦᱩᱥᱤᱭᱟᱹᱨ: ᱢᱤᱫ ᱫᱷᱟᱣ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱵᱷᱳᱴ ᱮᱢ ᱢᱟᱱᱟ ᱜᱮᱭᱟ।</string>
+    <string name="network_error">ᱱᱮᱴᱣᱟᱨᱠ ᱵᱷᱩᱞ</string>
+    <string name="loading_candidates">ᱠᱮᱱᱰᱤᱰᱮᱴ ᱠᱚ ᱞᱳᱰᱚᱜ ᱠᱟᱱᱟ&#8230;</string>
+    <string name="failed_load_candidates">ᱠᱮᱱᱰᱤᱰᱮᱴ ᱞᱳᱰ ᱵᱟᱝ ᱦᱩᱭ ᱞᱮᱱᱟ</string>
+    <string name="vote_confirm_msg">%1$s ᱵᱷᱳᱴ ᱮᱢᱟᱭᱟᱢ? ᱱᱚᱶᱟ ᱫᱚ ᱢᱩᱪᱟᱹᱫ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ।</string>
+    <string name="processing_vote">ᱵᱷᱳᱴ ᱥᱩᱨᱚᱠᱷᱤᱛ ᱛᱮ ᱞᱟᱦᱟᱜ ᱠᱟᱱᱟ&#8230;</string>
+    <string name="already_voted_error">ᱵᱷᱩᱞ: ᱵᱷᱳᱴ ᱫᱚ ᱮᱢ ᱦᱩᱭ ᱟᱠᱟᱱᱟ।</string>
+    <string name="transaction_failed">ᱠᱟᱹᱢᱤ ᱵᱟᱝ ᱦᱩᱭ ᱞᱮᱱᱟ।</string>
+    <string name="vote_recorded_success">ᱵᱷᱳᱴ ᱱᱟᱯᱟᱭ ᱛᱮ ᱮᱢ ᱮᱱᱟ</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">ᱮᱰᱢᱤᱱ ᱰᱮᱥᱵᱳᱨᱰ</string>
+    <string name="candidate_mgmt">ᱠᱮᱱᱰᱤᱰᱮᱴ ᱥᱟᱢᱵᱽᱲᱟᱣ</string>
+    <string name="add_new_candidate">ᱱᱟᱶᱟ ᱠᱮᱱᱰᱤᱰᱮᱴ ᱢᱮᱥᱟᱭᱮᱢ</string>
+    <string name="edit_delete_candidates">ᱠᱮᱱᱰᱤᱰᱮᱴ ᱵᱚᱫᱚᱞ / ᱚᱪᱚᱜ</string>
+    <string name="election_ctrl">ᱵᱟᱪᱷᱱᱟᱣ ᱥᱟᱢᱵᱽᱲᱟᱣ</string>
+    <string name="start_btn">ᱮᱦᱚᱵ ᱢᱮ</string>
+    <string name="stop_btn">ᱵᱚᱱᱫᱚ ᱢᱮ</string>
+    <string name="reset_btn">ᱡᱚᱛᱚ ᱵᱟᱪᱷᱱᱟᱣ ᱰᱟᱴᱟ ᱚᱪᱚᱜ ᱢᱮ</string>
+    <string name="monitoring">ᱧᱮᱞ ᱥᱟᱢᱵᱽᱲᱟᱣ</string>
+    <string name="view_user_list">ᱩᱯᱨᱩᱢ ᱛᱟᱹᱞᱠᱟᱹ ᱧᱮᱞ ᱢᱮ</string>
+    <string name="real_time_results">ᱱᱤᱛᱚᱜᱟᱜ ᱚᱨᱡᱚ</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn">ᱢᱮᱥᱟᱭᱮᱢ</string>
+    <string name="cancel_btn">ᱵᱟᱹᱛᱤᱞ ᱢᱮ</string>
+    <string name="name_party_req">ᱧᱩᱛᱩମ ᱟᱨ ᱯᱟᱨᱴᱤ ᱞᱟᱹᱠᱛᱤᱭᱟ</string>
+    <string name="candidate_added">ᱠᱮᱱᱰᱤᱰᱮᱴ ᱢᱮᱥᱟ ᱮᱱᱟ</string>
+    <string name="election_started">ᱵᱟᱪᱷᱱᱟᱣ ᱮᱦᱚᱵ ᱮᱱᱟ</string>
+    <string name="election_ended">ᱵᱟᱪᱷᱱᱟᱣ ᱢᱩᱪᱟᱹᱫ ᱮᱱᱟ</string>
+    <string name="reset_election">ᱵᱟᱪᱷᱱᱟᱣ ᱚᱪᱚᱜ ᱢᱮ</string>
+    <string name="reset_confirm_msg">ᱱᱚᱶᱟ ᱛᱮ ᱡᱚᱛᱚ ᱵᱷᱳᱴ ᱚᱪᱚᱜᱚᱜᱼᱟ। ᱞᱟᱦᱟᱜᱼᱟᱢ?</string>
+    <string name="reset_complete">ᱵᱟᱪᱷᱱᱟᱣ ᱚᱪᱚᱜ ᱦᱩᱭ ᱮᱱᱟ</string>
+</resources>

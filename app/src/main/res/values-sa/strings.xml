@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">DVote तन्त्रम्</string>
+    <string name="nav_home">गृहम्</string>
+    <string name="nav_vote">मतम्</string>
+    <string name="nav_results">फलानि</string>
+    <string name="nav_profile">पार्श्वलेखः</string>
+    <string name="election_status">निर्वाचनस्थितिः</string>
+    <string name="quick_actions">शीघ्रकर्माणि</string>
+    <string name="admin_dashboard_upper">प्रशासक-फलकम्</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back">पुनः स्वागतम्,</string>
+    <string name="sign_in_to_continue">अग्रे गन्तुं प्रवेशं कुर्वन्तु</string>
+    <string name="create_account">लेखां सृजन्तु</string>
+    <string name="create_new_account">नवीनां लेखां सृजन्तु</string>
+    <string name="already_have_account">किं पूर्वमेव लेखा अस्ति? प्रविशन्तु</string>
+    <string name="join_secure_voting">सुरक्षिते मतदानमञ्चे सम्मिलितो भवन्तु</string>
+    <string name="secure_transparent_digital">सुरक्षितम् • पारदर्शि • अङ्कीयम्</string>
+    <string name="secure_access">सुरक्षिता प्रवेशाधिकारः</string>
+    <string name="authenticate_desc">स्वपरिचयं प्रमाणीकर्तुं प्रमाणीकरणं कुर्वन्तु</string>
+    <string name="authenticate_now">अधुनैव प्रमाणीकरणं कुर्वन्तु</string>
+
+    <!-- Main Features -->
+    <string name="elections">निर्वाचनानि</string>
+    <string name="verify_voter_qr">मतदातृ-QR-सङ्केतं प्रमाणीकुर्वन्तु</string>
+    <string name="cast_vote">मतं ददतु</string>
+    <string name="live_results">प्रत्यक्षफलानि</string>
+    <string name="live_counting">प्रत्यक्षगणनम्</string>
+    <string name="election_results">निर्वाचनफलानि</string>
+    <string name="select_preferred_candidate">प्रियतमम् अभ्यर्थिनं चिन्वन्तु</string>
+    <string name="my_profile">मम पार्श्वलेखः</string>
+    <string name="voting_status">मतदानस्थितिः</string>
+    <string name="active_now">अधुना सक्रियः</string>
+    <string name="current_election">वर्तमानं निर्वाचनम्</string>
+    <string name="gen_election_2024">सामान्यनिर्वाचनम् २०२४</string>
+    <string name="view_all_candidates">सर्वान् अभ्यर्थिनः पश्यन्तु</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc">QR-सङ्केतं चौखटे स्थापयन्तु</string>
+    <string name="open_scanner">स्कैनरम् उद्घाटयन्तु</string>
+    <string name="qr_verification">QR प्रमाणीकरणम्</string>
+    <string name="scanner_icon_desc">स्कैनर-चिह्नम्</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name">अभ्यर्थिनः नाम</string>
+    <string name="party_name">दलस्य नाम</string>
+    <string name="vote">मतम्</string>
+    <string name="votes">मतानि</string>
+    <string name="winner_tag">विजेता</string>
+    <string name="primary_slogan">भवतः मतम् भवतः वाणी</string>
+    <string name="secondary_slogan">सुरक्षित-अङ्कीय-मतदानेन राष्ट्रस्य सबलीकरणम्।</string>
+    <string name="telugu_slogan">भवतः मतम् भवतः अधिकारः</string>
+    <string name="english_slogan">भवतः मतम् भवतः अधिकारः।</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric">जैविक-प्रमाणीकरणं क्रियते&#8230;</string>
+    <string name="namaste_desc">नमस्ते-चित्रम्</string>
+    <string name="fingerprint_desc">अङ्गुलीमुद्रा-स्कैनरः</string>
+
+    <!-- Localization -->
+    <string name="select_language">भाषां चिन्वन्तु</string>
+    <string name="search_language">भाषां अन्विष्यन्तु&#8230;</string>
+    <string name="english">आङ्ग्लभाषा</string>
+    <string name="telugu">तेलुगु</string>
+    <string name="hindi">संस्कृतम्</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint">विद्युत्पत्र-सङ्केतः</string>
+    <string name="password_hint">कूटशब्दः</string>
+    <string name="sign_in">प्रवेशः</string>
+    <string name="full_name_hint">पूर्णं नाम</string>
+    <string name="phone_hint">दूरभाष-सङ्ख्या</string>
+    <string name="aadhaar_hint">आधार-सङ्ख्या</string>
+    <string name="voter_id_hint">मतदातृ-परिचयपत्रम्</string>
+    <string name="create_password_hint">कूटशब्दं सृजन्तु</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet">अन्तर्जाल-सम्पर्कः नास्ति। स्वजालं पश्यन्तु।</string>
+    <string name="email_required">विद्युत्पत्रम् आवश्यकम्</string>
+    <string name="valid_email">उचितं विद्युत्पत्रं लिखन्तु</string>
+    <string name="password_required">कूटशब्दः आवश्यकः</string>
+    <string name="authenticating">प्रमाणीकरणं भवति&#8230;</string>
+    <string name="welcome_back_toast">पुनः स्वागतम्!</string>
+    <string name="auth_failed">प्रमाणीकरणं विफलम्</string>
+    <string name="fill_all_fields">कृपया सर्वाणि क्षेत्राणि पूरयन्तु</string>
+    <string name="creating_account">सुरक्षितलेखा सृज्यते&#8230;</string>
+    <string name="reg_success">पञ्जीकरणं सफलम्!</string>
+    <string name="access_denied_admin">प्रवेशो निषिद्धः: केवलं प्रशासकाय</string>
+    <string name="error_label">त्रुटिः</string>
+    <string name="logged_out">निर्गमनं जातम्</string>
+    <string name="voted">मतं दत्तम्</string>
+    <string name="not_voted">मतं न दत्तम्</string>
+    <string name="profile_not_found">दत्तांशनिधौ पार्श्वलेखः न प्राप्तः। पुनः पञ्जीकरणं कुर्वन्तु।</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required">सुरक्षा-त्रुटिः: उपयोगकर्ता न प्रमाणीकृतः</string>
+    <string name="checking_status">मतदानस्थितिः परीचयते&#8230;</string>
+    <string name="multiple_voting_alert">सुरक्षा-सतर्कता: बहुवारं मतदानं निषिद्धम्।</string>
+    <string name="network_error">जाल-त्रुटिः</string>
+    <string name="loading_candidates">अभ्यर्थिनः आहूयन्ते&#8230;</string>
+    <string name="failed_load_candidates">अभ्यर्थिनां आवाहनं विफलम्</string>
+    <string name="vote_confirm_msg">%1$s इत्यस्मै मतं दातुं इच्छति वा?\nइदं कार्यं स्थिरम्।</string>
+    <string name="processing_vote">मतं सुरक्षितरूपेण संसाध्यते&#8230;</string>
+    <string name="already_voted_error">त्रुटिः: मतं पूर्वमेव दत्तम्।</string>
+    <string name="transaction_failed">संव्यवहारः विफलः।</string>
+    <string name="vote_recorded_success">मतं सफलतापूर्वकं पञ्जीकृतम्</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">प्रशासक-फलकम्</string>
+    <string name="candidate_mgmt">अभ्यर्थि-प्रबन्धनम्</string>
+    <string name="add_new_candidate">नवीनं अभ्यर्थिनं योजयन्तु</string>
+    <string name="edit_delete_candidates">अभ्यर्थिनः परिष्कुर्वन्तु / निष्कासयन्तु</string>
+    <string name="election_ctrl">निर्वाचन-नियन्त्रणम्</string>
+    <string name="start_btn">आरम्भः</string>
+    <string name="stop_btn">विरामः</string>
+    <string name="reset_btn">सर्वनिर्वाचन-दत्तांशं पुनः स्थापयन्तु</string>
+    <string name="monitoring">पर्यवेक्षणम्</string>
+    <string name="view_user_list">उपयोक्तृ-सूचीं पश्यन्तु</string>
+    <string name="real_time_results">वास्तविक-काल-फलानि</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn">योजयन्तु</string>
+    <string name="cancel_btn">रदं कुर्वन्तु</string>
+    <string name="name_party_req">नाम दलश्च आवश्यकम्</string>
+    <string name="candidate_added">अभ्यर्थी योजितः</string>
+    <string name="election_started">निर्वाचनं आरब्धम्</string>
+    <string name="election_ended">निर्वाचनं समाप्तम्</string>
+    <string name="reset_election">निर्वाचनं पुनः स्थापयन्तु</string>
+    <string name="reset_confirm_msg">अनेन सर्वाणि मतानि मार्जितानि भविष्यन्ति। किं अग्रे गन्तुं इच्छति?</string>
+    <string name="reset_complete">निर्वाचन-पुनःस्थापना सम्पूर्णा</string>
+</resources>

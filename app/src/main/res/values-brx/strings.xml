@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">DVote सिस्टम</string>
+    <string name="nav_home">न\'ख\'र</string>
+    <string name="nav_vote">भ\'ट</string>
+    <string name="nav_results">फिथाइ</string>
+    <string name="nav_profile">प्रफाइल</string>
+    <string name="election_status">बिसायखथि अबस्था</string>
+    <string name="quick_actions">गोरलै खामानि</string>
+    <string name="admin_dashboard_upper">एडमिन डेशब\'र्ड</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back">फिन बरायबाय,</string>
+    <string name="sign_in_to_continue">थांलायबाय थानो साइन इन खालाम</string>
+    <string name="create_account">एकाउन्ट बानाय</string>
+    <string name="create_new_account">गोदान एकाउन्ट बानाय</string>
+    <string name="already_have_account">सिगांनिफ्रायनो एकाउन्ट दं नामा? लगइन खालाम</string>
+    <string name="join_secure_voting">रैखागोनां भ\'ट होनाय गौथुमाव बाहागो ला</string>
+    <string name="secure_transparent_digital">रैखागोनां • गोजों • डिजिटल</string>
+    <string name="secure_access">रैखागोनां हाबनाय</string>
+    <string name="authenticate_desc">मिथिंगा दिन्थिनाय खालामनो थाखाय दिन्थि</string>
+    <string name="authenticate_now">दा दिन्थि</string>
+
+    <!-- Main Features -->
+    <string name="elections">बिसायखथिफोर</string>
+    <string name="verify_voter_qr">भ\'टार QR आनजाद खालाम</string>
+    <string name="cast_vote">भ\'ट हो</string>
+    <string name="live_results">लाइभ फिथाइ</string>
+    <string name="live_counting">लाइभ साननाय</string>
+    <string name="election_results">बिसायखथि फिथाइ</string>
+    <string name="select_preferred_candidate">मोजां मोननाय केन्डिडेटखौ सायख</string>
+    <string name="my_profile">आंनि प्रफाइल</string>
+    <string name="voting_status">भ\'ट होनाय अबस्था</string>
+    <string name="active_now">दा सोलिगासिनो दं</string>
+    <string name="current_election">दानि बिसायखथि</string>
+    <string name="gen_election_2024">सरासनस्रा बिसायखथि २०२४</string>
+    <string name="view_all_candidates">गासै केन्डिडेटफोरखौ नाय</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc">QR क\'डखौ फ्रेमनि सिङाव दोन</string>
+    <string name="open_scanner">स्क्यानार खेव</string>
+    <string name="qr_verification">QR आनजाद खालामनाय</string>
+    <string name="scanner_icon_desc">स्क्यानार आइकन</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name">केन्डिडेटनि मुं</string>
+    <string name="party_name">पार्टिनि मुं</string>
+    <string name="vote">भ\'ट</string>
+    <string name="votes">भ\'टफोर</string>
+    <string name="winner_tag">देरहासार</string>
+    <string name="primary_slogan">नोंनि भ\'टआ नोंनि गोलो</string>
+    <string name="secondary_slogan">रैखागोनां डिजिटल भ\'ट होनायजों हारिखौ गोख्रों खालामनाय।</string>
+    <string name="telugu_slogan">नोंनि भ\'टआ नोंनि मोनथाय</string>
+    <string name="english_slogan">नोंनि भ\'टआ नोंनि मोनथाय।</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric">बायोमॅट्रिक आनजाद खालामगासिनो दं&#8230;</string>
+    <string name="namaste_desc">नमस्ते सावगारि</string>
+    <string name="fingerprint_desc">फिङ्गारप्रिन्ट स्क्यानार</string>
+
+    <!-- Localization -->
+    <string name="select_language">राव सायख</string>
+    <string name="search_language">राव नागिर&#8230;</string>
+    <string name="english">इंग्राजि</string>
+    <string name="telugu">तेलेगु</string>
+    <string name="hindi">बड़ो</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint">इमेल एड्रेस</string>
+    <string name="password_hint">पासवर्ड</string>
+    <string name="sign_in">साइन इन</string>
+    <string name="full_name_hint">गासै मुं</string>
+    <string name="phone_hint">फ\'न नम्बर</string>
+    <string name="aadhaar_hint">आधार नम्बर</string>
+    <string name="voter_id_hint">भ\'टार आइ डी</string>
+    <string name="create_password_hint">पासवर्ड बानाय</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet">इन्टारनेट गैया। नोंनि नेटवर्कखौ नाय।</string>
+    <string name="email_required">इमेल नांगौ</string>
+    <string name="valid_email">सत्य इमेल लिर</string>
+    <string name="password_required">पासवर्ड नांगौ</string>
+    <string name="authenticating">दिन्थिगासिनो दं&#8230;</string>
+    <string name="welcome_back_toast">फिन बरायबाय!</string>
+    <string name="auth_failed">दिन्थिनाया जाफुङाखै</string>
+    <string name="fill_all_fields">अननानै गासैबो लिर</string>
+    <string name="creating_account">रैखागोनां एकाउन्ट बानायगासिनो दं&#8230;</string>
+    <string name="reg_success">मंग\'ननाया जाफुंबाय!</string>
+    <string name="access_denied_admin">हाबनो मोननाय गैया: एडमिनि थाखायलो</string>
+    <string name="error_label">गोरोन्थि</string>
+    <string name="logged_out">लग आउट जाबाय</string>
+    <string name="voted">भ\'ट होबाय</string>
+    <string name="not_voted">भ\'ट होवाखै</string>
+    <string name="profile_not_found">प्रफाइल मोनाखै। फिन मंग\'न खालाम।</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required">रैखागोनां गोरोन्थि: सुबुंखौ दिन्थिनाय जायाखै</string>
+    <string name="checking_status">भ\'ट होनाय अबस्थाखौ नायगासिनो दं&#8230;</string>
+    <string name="multiple_voting_alert">रैखागोनां सांग्रांथि: खेबसेनि बारा भ\'ट होनाया बारन।</string>
+    <string name="network_error">नेटवर्क गोरोन्थि</string>
+    <string name="loading_candidates">केन्डिडेटफोरखौ लाब\'गासिनो दं&#8230;</string>
+    <string name="failed_load_candidates">केन्डिडेटफोरखौ लाब\'नो हायाखै</string>
+    <string name="vote_confirm_msg">%1$s नो भ\'ट होनो सानदों नामा?\nबे खामानिया थि।</string>
+    <string name="processing_vote">भ\'टखौ रैखागोनांयै सोलिगासिनो दं&#8230;</string>
+    <string name="already_voted_error">गोरोन्थि: भ\'टखौ सिगांनोनो होनाय जाबाय।</string>
+    <string name="transaction_failed">खामानिया जाफुङाखै।</string>
+    <string name="vote_recorded_success">भ\'टखौ मोजाङै दोननाय जाबाय</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">एडमिन डेशब\'र्ड</string>
+    <string name="candidate_mgmt">केन्डिडेट सामलायनाय</string>
+    <string name="add_new_candidate">गोदान केन्डिडेट हबचिन</string>
+    <string name="edit_delete_candidates">केन्डिडेटफोरखौ सोलाय / बोखार</string>
+    <string name="election_ctrl">बिसायखथि सामलायनाय</string>
+    <string name="start_btn">जगाइ</string>
+    <string name="stop_btn">होबथा</string>
+    <string name="reset_btn">गासै बिसायखथि डाटाखौ रिसेट खालाम</string>
+    <string name="monitoring">नायबिजिरनाय</string>
+    <string name="view_user_list">सुबुं फारिलाइ नाय</string>
+    <string name="real_time_results">लाइभ फिथाइफोर</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn">होबचिन</string>
+    <string name="cancel_btn">नागार</string>
+    <string name="name_party_req">मुं आरो पार्टि नांगौ</string>
+    <string name="candidate_added">केन्डिडेटखौ होबचिनबाय</string>
+    <string name="election_started">बिसायखथिया जागायबाय</string>
+    <string name="election_ended">बिसायखथिया जोबबाय</string>
+    <string name="reset_election">बिसायखथिखौ रिसेट खालाम</string>
+    <string name="reset_confirm_msg">बेयो गासै भ\'टफोरखौ बोखारगोन। थांलायबाय थानो सानदों नामा?</string>
+    <string name="reset_complete">बिसायखथि रिसेट खालामनाया जोबबाय</string>
+</resources>

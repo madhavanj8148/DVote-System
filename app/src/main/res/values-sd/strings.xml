@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">DVote سسٽم</string>
+    <string name="nav_home">گھر</string>
+    <string name="nav_vote">ووٽ</string>
+    <string name="nav_results">نتيجا</string>
+    <string name="nav_profile">پروفائيل</string>
+    <string name="election_status">چونڊ صورتحال</string>
+    <string name="quick_actions">تڪڙا ڪم</string>
+    <string name="admin_dashboard_upper">ايڊمن ڊيش بورڊ</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back">ڀليڪار،</string>
+    <string name="sign_in_to_continue">اڳتي وڌڻ لاءِ سائن ان ڪريو</string>
+    <string name="create_account">اکائونٽ ٺاهيو</string>
+    <string name="create_new_account">نئون اکائونٽ ٺاهيو</string>
+    <string name="already_have_account">پهريان ئي اکائونٽ آهي؟ لاگ ان ڪريو</string>
+    <string name="join_secure_voting">محفوظ ووٽنگ پليٽ فارم ۾ شامل ٿيو</string>
+    <string name="secure_transparent_digital">محفوظ • شفاف • ڊجيٽل</string>
+    <string name="secure_access">محفوظ رسائي</string>
+    <string name="authenticate_desc">پنهنجي سڃاڻپ جي تصديق لاءِ تصديق ڪريو</string>
+    <string name="authenticate_now">هاڻي تصديق ڪريو</string>
+
+    <!-- Main Features -->
+    <string name="elections">چونڊون</string>
+    <string name="verify_voter_qr">ووٽر QR جي تصديق ڪريو</string>
+    <string name="cast_vote">ووٽ وجهو</string>
+    <string name="live_results">براہ راست نتيجا</string>
+    <string name="live_counting">براہ راست ڳڻپ</string>
+    <string name="election_results">چونڊ نتيجا</string>
+    <string name="select_preferred_candidate">پنهنجي پسنديده اميدوار کي چونڊيو</string>
+    <string name="my_profile">منهنجو پروفائيل</string>
+    <string name="voting_status">ووٽنگ صورتحال</string>
+    <string name="active_now">هاڻي فعال آهي</string>
+    <string name="current_election">موجودہ چونڊ</string>
+    <string name="gen_election_2024">عام چونڊون 2024</string>
+    <string name="view_all_candidates">تمام اميدوار ڏسو</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc">QR ڪوڊ کي فريم اندر رکو</string>
+    <string name="open_scanner">اسڪينر کوليو</string>
+    <string name="qr_verification">QR تصديق</string>
+    <string name="scanner_icon_desc">اسڪينر آئڪن</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name">اميدوار جو نالو</string>
+    <string name="party_name">پارٽي جو نالو</string>
+    <string name="vote">ووٽ</string>
+    <string name="votes">ووٽ</string>
+    <string name="winner_tag">فاتح</string>
+    <string name="primary_slogan">توهان جو ووٽ توهان جو آواز آهي</string>
+    <string name="secondary_slogan">محفوظ ڊجيٽل ووٽنگ ذريعي قوم کي بااختيار بڻائڻ.</string>
+    <string name="telugu_slogan">توهان جو ووٽ توهان جو حق آهي</string>
+    <string name="english_slogan">توهان جو ووٽ توهان جو حق آهي.</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric">بايوميٽرڪ تصديق ٿي رهي آهي&#8230;</string>
+    <string name="namaste_desc">نمستي تصوير</string>
+    <string name="fingerprint_desc">فنگر پرنٽ اسڪينر</string>
+
+    <!-- Localization -->
+    <string name="select_language">ٻولي چونڊيو</string>
+    <string name="search_language">ٻولي ڳوليو&#8230;</string>
+    <string name="english">انگريزي</string>
+    <string name="telugu">تيلگو</string>
+    <string name="hindi">سنڌي</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint">اي ميل پتو</string>
+    <string name="password_hint">پاس ورڊ</string>
+    <string name="sign_in">سائن ان ڪريو</string>
+    <string name="full_name_hint">پورو نالو</string>
+    <string name="phone_hint">فون نمبر</string>
+    <string name="aadhaar_hint">آڌار نمبر</string>
+    <string name="voter_id_hint">ووٽر آئي ڊي</string>
+    <string name="create_password_hint">پاس ورڊ ٺاهيو</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet">انٽرنيٽ ڪنيڪشن ناهي. پنهنجو نيٽ ورڪ چيڪ ڪريو.</string>
+    <string name="email_required">اي ميل ضروري آهي</string>
+    <string name="valid_email">صحيح اي ميل لکو</string>
+    <string name="password_required">پاس ورڊ ضروری آهي</string>
+    <string name="authenticating">تصديق ٿي رهي آهي&#8230;</string>
+    <string name="welcome_back_toast">ڀليڪار!</string>
+    <string name="auth_failed">تصديق ناڪام وئي</string>
+    <string name="fill_all_fields">مهرباني ڪري تمام خانا ڀريو</string>
+    <string name="creating_account">محفوظ اکائونٽ ٺاهيو پيو وڃي&#8230;</string>
+    <string name="reg_success">رجسٽريشن ڪامياب رهي!</string>
+    <string name="access_denied_admin">رسائي رد ڪئي وئي: صرف ايڊمن لاءِ</string>
+    <string name="error_label">غلطي</string>
+    <string name="logged_out">لاگ آئوٽ ٿي ويو</string>
+    <string name="voted">ووٽ ڏئي ڇڏيو</string>
+    <string name="not_voted">ووٽ ناهي ڏنو</string>
+    <string name="profile_not_found">ڊيٽا بيس ۾ پروفائيل نه ملي. ٻيهر رجسٽر ڪرڻ جي ڪوشش ڪريو.</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required">سيڪيورٽي غلطي: واهپيندڙ جي تصديق ناهي ٿيل</string>
+    <string name="checking_status">ووٽنگ صورتحال چيڪ ڪئي پئي وڃي&#8230;</string>
+    <string name="multiple_voting_alert">سيڪيورٽي الرٽ: هڪ کان وڌيڪ ڀيرا ووٽ وجهڻ منع آهي.</string>
+    <string name="network_error">نيٽ ورڪ غلطي</string>
+    <string name="loading_candidates">اميدوار لوڊ ٿي رهيا آهن&#8230;</string>
+    <string name="failed_load_candidates">اميدوار لوڊ ڪرڻ ۾ ناڪامي</string>
+    <string name="vote_confirm_msg">%1$s کي ووٽ ڏيڻو آهي؟ هي عمل مستقل آهي.</string>
+    <string name="processing_vote">ووٽ محفوظ طريقي سان پروسيس ڪيو پيو وڃي&#8230;</string>
+    <string name="already_voted_error">غلطي: ووٽ پهريان ئي ڏنو ويو آهي.</string>
+    <string name="transaction_failed">ٽرانزيڪشن ناڪام وئي.</string>
+    <string name="vote_recorded_success">ووٽ ڪاميابي سان رڪارڊ ڪيو ويو</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">ايڊمن ڊيش بورڊ</string>
+    <string name="candidate_mgmt">اميدوارن جو انتظام</string>
+    <string name="add_new_candidate">نئون اميدوار شامل ڪريو</string>
+    <string name="edit_delete_candidates">اميدوارن ۾ ترميم ڪريو / ختم ڪريو</string>
+    <string name="election_ctrl">چونڊ ڪنٽرول</string>
+    <string name="start_btn">شروع ڪريو</string>
+    <string name="stop_btn">روڪيو</string>
+    <string name="reset_btn">تمام چونڊ ڊيٽا ري سيٽ ڪريو</string>
+    <string name="monitoring">نگراني</string>
+    <string name="view_user_list">واهپيندڙن جي لسٽ ڏسو</string>
+    <string name="real_time_results">ريئل ٽائيم نتيجا</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn">شامل ڪريو</string>
+    <string name="cancel_btn">منسوخ ڪريو</string>
+    <string name="name_party_req">نالو ۽ پارٽي ضروري آهن</string>
+    <string name="candidate_added">اميدوار شامل ڪيو ويو</string>
+    <string name="election_started">چونڊ شروع ٿي وئي</string>
+    <string name="election_ended">چونڊ ختم ٿي وئي</string>
+    <string name="reset_election">چونڊ ري سيٽ ڪريو</string>
+    <string name="reset_confirm_msg">ان سان تمام ووٽ ختم ٿي ويندا. جاري رکڻ چاهيو ٿا؟</string>
+    <string name="reset_complete">چونڊ ري سيٽ مڪمل ٿي وئي</string>
+</resources>

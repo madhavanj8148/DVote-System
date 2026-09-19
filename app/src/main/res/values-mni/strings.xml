@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">DVote চিষ্টেম</string>
+    <string name="nav_home">য়ুম</string>
+    <string name="nav_vote">ভোট</string>
+    <string name="nav_results">ফল</string>
+    <string name="nav_profile">প্ৰোফাইল</string>
+    <string name="election_status">খল্লকপগী ফীভম</string>
+    <string name="quick_actions">থুনা তৌগদবশিং</string>
+    <string name="admin_dashboard_upper">এডমিন ডেশবোর্ড</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back">অমুক হন্না তরাম্না ওকচরি,</string>
+    <string name="sign_in_to_continue">মখা চত্থনবা সাইন ইন তৌবীয়ু</string>
+    <string name="create_account">একাউণ্ট শেম্বীয়ু</string>
+    <string name="create_new_account">অনৌবা একাউণ্ট শেম্বীয়ু</string>
+    <string name="already_have_account">মমাঙদগী একাউণ্ট লৈব্রা? লগইন তৌবীয়ু</string>
+    <string name="join_secure_voting">সুৰক্ষিত ভোটিনগী প্লেটফোরমদা য়াওবীয়ু</string>
+    <string name="secure_transparent_digital">সুৰক্ষিত • অশেংবা • ডিজিটাল</string>
+    <string name="secure_access">সুৰক্ষিত চঙফম</string>
+    <string name="authenticate_desc">নহাক্কী মশেক শকখঙনবা অথেন্টিকেট তৌবীয়ু</string>
+    <string name="authenticate_now">হৌজিক অথেন্টিকেট তৌবীয়ু</string>
+
+    <!-- Main Features -->
+    <string name="elections">খল্লকপশিং</string>
+    <string name="verify_voter_qr">ভোটার QR চেক তৌবীয়ু</string>
+    <string name="cast_vote">ভোট থাদবীয়ু</string>
+    <string name="live_results">লাইভ রেজাল্ট</string>
+    <string name="live_counting">লাইভ মশিং থীবগী থৌরম</string>
+    <string name="election_results">খল্লকপগী রেজাল্ট</string>
+    <string name="select_preferred_candidate">নহাক্না পামজবা কেন্দিডেট খনবীয়ু</string>
+    <string name="my_profile">ঐগী প্ৰোফাইল</string>
+    <string name="voting_status">ভোট থাদবগী ফীভম</string>
+    <string name="active_now">হৌজিক চত্থরি</string>
+    <string name="current_election">হৌজিক্কী খল্লকপা</string>
+    <string name="gen_election_2024">জেনেরেল ইলেকশন ২০২৪</string>
+    <string name="view_all_candidates">কেন্দিডেট পুম্নমক য়েংবীয়ু</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc">QR কোড ফ্ৰেম মনুংদা থম্বীয়ু</string>
+    <string name="open_scanner">স্কেনার হাংবীয়ু</string>
+    <string name="qr_verification">QR ভেরিফিকেশন</string>
+    <string name="scanner_icon_desc">স্কেনার আইকন</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name">কেন্দিডেটকী মিং</string>
+    <string name="party_name">পার্টিগী মিং</string>
+    <string name="vote">ভোট</string>
+    <string name="votes">ভোটশিং</string>
+    <string name="winner_tag">মায় পাক্লবা</string>
+    <string name="primary_slogan">নহাক্কী ভোট অসি নহাক্কী খোনজেলনি</string>
+    <string name="secondary_slogan">সুৰক্ষিত ডিজিটাল ভোটিনগী খুৎথাংদা লৈবাকপু মপাঙ্গল কনখৎহনবা।</string>
+    <string name="telugu_slogan">নহাক্কী ভোট অসি নহাক্কী হকনি</string>
+    <string name="english_slogan">নহাক্কী ভোট অসি নহাক্কী হকনি।</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric">বায়োমেট্রিক চেক তৌরি&#8230;</string>
+    <string name="namaste_desc">নমস্তে চিত্র</string>
+    <string name="fingerprint_desc">ফিঙ্গারপ্রিন্ট স্কেনার</string>
+
+    <!-- Localization -->
+    <string name="select_language">লোন খনবীয়ু</string>
+    <string name="search_language">লোন থীবীয়ু&#8230;</string>
+    <string name="english">ইংলিস</string>
+    <string name="telugu">তেলেগু</string>
+    <string name="hindi">মণিপুরী</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint">ইমেল এড্রেন্স</string>
+    <string name="password_hint">পাসৱোর্ড</string>
+    <string name="sign_in">সাইন ইন</string>
+    <string name="full_name_hint">অপুন্বা মিং</string>
+    <string name="phone_hint">ফোন নম্বর</string>
+    <string name="aadhaar_hint">আধার নম্বর</string>
+    <string name="voter_id_hint">ভোটার আইডি</string>
+    <string name="create_password_hint">পাসৱোর্ড শেম্বীয়ু</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet">ইন্টারনেট কনেকশন লৈতে। নেটৱর্ক চেক তৌবীয়ু।</string>
+    <string name="email_required">ইমেল মথৌ তাই</string>
+    <string name="valid_email">অচুম্বা ইমেল চঙবীয়ু</string>
+    <string name="password_required">পাসৱোর্ড মথৌ তাই</string>
+    <string name="authenticating">অথেন্টিকেট তৌরি&#8230;</string>
+    <string name="welcome_back_toast">তরাম্না ওকচরি!</string>
+    <string name="auth_failed">অথেন্টিকেশন মাই পাকখ্রে</string>
+    <string name="fill_all_fields">মথৌ তাবা পুম্নমক মেনবীয়ু</string>
+    <string name="creating_account">সুৰক্ষিত একাউণ্ট শেম্লি&#8230;</string>
+    <string name="reg_success">রেজিষ্ট্রেসন মাই পাকখ্রে!</string>
+    <string name="access_denied_admin">অয়াবা লৈতে: এডমিনগী খক্তনি</string>
+    <string name="error_label">অশোপ্পা</string>
+    <string name="logged_out">লগ আউট তৌখ্রে</string>
+    <string name="voted">ভোট থাদখ্রে</string>
+    <string name="not_voted">ভোট থাদদ্রি</string>
+    <string name="profile_not_found">প্রোফাইল ফংদে। অমুক হন্না রেজিষ্টর তৌবীয়ু।</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required">সিক্যুরिटी অশোপ্পা: অথেন্টিকেট তৌদ্রি</string>
+    <string name="checking_status">ভোটিনগী ফীভম চেক তৌরি&#8230;</string>
+    <string name="multiple_voting_alert">সিক্যুরिटी চেক: হন্না-হন্না ভোট থাদবা য়াদে।</string>
+    <string name="network_error">নেটৱর্ক অশোপ্পা</string>
+    <string name="loading_candidates">কেন্দিডেটশিং লোড তৌরি&#8230;</string>
+    <string name="failed_load_candidates">কেন্দিডেট লোড তৌবা মাই পাকখ্রে</string>
+    <string name="vote_confirm_msg">%1$s বু ভোট থাদগদ্রা?\nমসি লেপ্পা য়াদবা থৌওংনি।</string>
+    <string name="processing_vote">ভোট সুৰক্ষিত ওইনা প্রোসেস তৌরি&#8230;</string>
+    <string name="already_voted_error">অশোপ্পা: ভোট মমাঙদগী থাদখ্রে।</string>
+    <string name="transaction_failed">লেনদেন মাই পাকখ্রে।</string>
+    <string name="vote_recorded_success">ভোট মাই পাক্না রেকর্ড তৌখ্রে</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">এডমিন ডেশবোর্ড</string>
+    <string name="candidate_mgmt">কেন্দিডেট মেনেজমেন্ট</string>
+    <string name="add_new_candidate">অনৌবা কেন্দিডেট হাপচিনবীয়ু</string>
+    <string name="edit_delete_candidates">কেন্দিডেট শেমদোকপা / লৌথোকপা</string>
+    <string name="election_ctrl">খল্লকপগী কন্ত্রোল</string>
+    <string name="start_btn">হৌবীয়ু</string>
+    <string name="stop_btn">লেপবীয়ু</string>
+    <string name="reset_btn">ইলেকশনগী তথ্য পুম্নমক রিসেট তৌবীয়ু</string>
+    <string name="monitoring">য়েংশিনবা</string>
+    <string name="view_user_list">য়ুজর লিষ্ট য়েংবীয়ু</string>
+    <string name="real_time_results">রিয়েল-টাইম রেজাল্ট</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn">হাপচিনবীয়ু</string>
+    <string name="cancel_btn">তৌদবীয়ু</string>
+    <string name="name_party_req">মিং অমসুং পার্টি মথৌ তাই</string>
+    <string name="candidate_added">কেন্দিডেট হাপচিনখ্রে</string>
+    <string name="election_started">ইলেকশন হৌখ্রে</string>
+    <string name="election_ended">ইলেকশন লোইখ্রে</string>
+    <string name="reset_election">ইলেকশন রিসেট তৌবীয়ু</string>
+    <string name="reset_confirm_msg">মসিনা ভোট পুম্নমক লৌথোক্লগনি অমসুং য়ুজরগী ভোটিনগী ফীভম রিসেট তৌগনি। মখা চত্থগদ্রা?</string>
+    <string name="reset_complete">ইলেকশন রিসেট লোইখ্রে</string>
+</resources>

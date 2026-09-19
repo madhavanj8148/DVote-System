@@ -1,0 +1,47 @@
+# Built objects
+*.pyc
+*.class
+
+# Built folders
+.gradle/
+build/
+*/build/
+bin/
+gen/
+out/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.factorypath
+
+# Local configuration
+local.properties
+.DS_Store
+
+# Android-specific
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aar
+*.ap_
+*.dex
+
+# Secrets
+*.jks
+*.keystore
+*.p12
+google-services.json
+
+# Node / React
+node_modules/
+.cache/
+
+# Logs
+*.log

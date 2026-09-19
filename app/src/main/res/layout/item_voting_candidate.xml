@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/Widget.DVoteSystem.ActionCard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="8dp"
+    app:cardElevation="2dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/ivCandidatePhoto"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:scaleType="centerCrop"
+            android:src="@android:drawable/ic_menu_report_image"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:shapeAppearanceOverlay="@style/ShapeAppearance.Material3.Corner.Large" />
+
+        <TextView
+            android:id="@+id/tvCandidateName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/candidate_name"
+            android:textColor="@color/onSurface"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toStartOf="@id/btnVoteNow"
+            app:layout_constraintStart_toEndOf="@id/ivCandidatePhoto"
+            app:layout_constraintTop_toTopOf="@id/ivCandidatePhoto" />
+
+        <TextView
+            android:id="@+id/tvPartyName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/party_name"
+            android:textColor="@color/primary_end"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toStartOf="@id/btnVoteNow"
+            app:layout_constraintStart_toStartOf="@id/tvCandidateName"
+            app:layout_constraintTop_toBottomOf="@id/tvCandidateName" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnVoteNow"
+            style="@style/Widget.DVoteSystem.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="24dp"
+            android:text="@string/vote"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>

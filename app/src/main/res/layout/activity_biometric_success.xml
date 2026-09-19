@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_biometric_success">
+
+    <!-- Ambient Lighting Effect -->
+    <View
+        android:id="@+id/ambientGlow"
+        android:layout_width="450dp"
+        android:layout_height="450dp"
+        android:background="@drawable/ambient_glow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Particle Container -->
+    <FrameLayout
+        android:id="@+id/particleContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Circular Glowing Ring -->
+    <View
+        android:id="@+id/rotatingRing"
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:background="@drawable/ring_glow_premium"
+        app:layout_constraintBottom_toBottomOf="@id/ivNamaste"
+        app:layout_constraintEnd_toEndOf="@id/ivNamaste"
+        app:layout_constraintStart_toStartOf="@id/ivNamaste"
+        app:layout_constraintTop_toTopOf="@id/ivNamaste" />
+
+    <!-- Glassmorphic Overlay -->
+    <View
+        android:id="@+id/glassOverlay"
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:background="@drawable/glass_card_bg"
+        app:layout_constraintBottom_toBottomOf="@id/ivNamaste"
+        app:layout_constraintEnd_toEndOf="@id/ivNamaste"
+        app:layout_constraintStart_toStartOf="@id/ivNamaste"
+        app:layout_constraintTop_toTopOf="@id/ivNamaste" />
+
+    <!-- Namaste Illustration (Mirroring Provided Image) -->
+    <ImageView
+        android:id="@+id/ivNamaste"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:contentDescription="@string/namaste_desc"
+        android:src="@drawable/ic_namaste_woman"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.30" />
+
+    <!-- Fingerprint Scanner -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/clFingerprint"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ivNamaste">
+
+        <ImageView
+            android:id="@+id/ivFingerprint"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/fingerprint_desc"
+            android:src="@drawable/ic_fingerprint_premium"
+            app:tint="@color/neon_blue" />
+
+        <!-- Scanning Line -->
+        <View
+            android:id="@+id/scanLine"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:background="@drawable/scan_line_gradient"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Typography Section -->
+    <LinearLayout
+        android:id="@+id/textContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@id/clFingerprint">
+
+        <TextView
+            android:id="@+id/tvTelugu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/telugu_slogan"
+            android:textColor="@color/neon_blue"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvEnglish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/english_slogan"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tvVerifying"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/verifying_biometric"
+            android:textColor="@color/secondary_text"
+            android:textSize="14sp"
+            android:letterSpacing="0.1" />
+
+    </LinearLayout>
+
+    <!-- Progress Indicator -->
+    <com.google.android.material.progressindicator.LinearProgressIndicator
+        android:id="@+id/progressBar"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="64dp"
+        android:indeterminate="true"
+        app:indicatorColor="@color/neon_blue"
+        app:trackColor="#1AFFFFFF"
+        app:trackCornerRadius="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

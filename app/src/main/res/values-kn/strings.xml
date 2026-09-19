@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DVote ಸಿಸ್ಟಮ್</string>
+    <string name="nav_home">ಮುಖಪುಟ</string>
+    <string name="nav_vote">ಮತ</string>
+    <string name="nav_results">ಫಲಿತಾಂಶಗಳು</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="election_status">ಚುನಾವಣಾ ಸ್ಥಿತಿ</string>
+    <string name="quick_actions">ತ್ವರಿತ ಕ್ರಮಗಳು</string>
+    <string name="admin_dashboard_upper">ಅಡ್ಮಿನ್ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back">ಮರಳಿ ಸ್ವಾಗತ,</string>
+    <string name="sign_in_to_continue">ಮುಂದುವರಿಯಲು ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="create_account">ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    <string name="create_new_account">ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    <string name="already_have_account">ಈಗಾಗಲೇ ಖಾತೆ ಹೊಂದಿದ್ದೀರಾ? ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="join_secure_voting">ಸುರಕ್ಷಿತ ಮತದಾನ ವೇದಿಕೆಗೆ ಸೇರಿ</string>
+    <string name="secure_transparent_digital">ಸುರಕ್ಷಿತ • ಪಾರದರ್ಶಕ • ಡಿಜಿಟಲ್</string>
+    <string name="secure_access">ಸುರಕ್ಷಿತ ಪ್ರವೇಶ</string>
+    <string name="authenticate_desc">ನಿಮ್ಮ ಗುರುತನ್ನು ದೃಢೀಕರಿಸಲು ಪ್ರಮಾಣೀಕರಿಸಿ</string>
+    <string name="authenticate_now">ಈಗಲೇ ಪ್ರಮಾಣೀಕರಿಸಿ</string>
+
+    <!-- Main Features -->
+    <string name="elections">ಚುನಾವಣೆಗಳು</string>
+    <string name="verify_voter_qr">ಮತದಾರರ QR ದೃಢೀಕರಿಸಿ</string>
+    <string name="cast_vote">ಮತ ಚಲಾಯಿಸಿ</string>
+    <string name="live_results">ನೇರ ಫಲಿತಾಂಶಗಳು</string>
+    <string name="live_counting">ನೇರ ಎಣಿಕೆ</string>
+    <string name="election_results">ಚುನಾವಣಾ ಫಲಿತಾಂಶಗಳು</string>
+    <string name="select_preferred_candidate">ನಿಮ್ಮ ಆದ್ಯತೆಯ ಅಭ್ಯರ್ಥಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="my_profile">ನನ್ನ ಪ್ರೊಫೈಲ್</string>
+    <string name="voting_status">ಮತದಾನ ಸ್ಥಿತಿ</string>
+    <string name="active_now">ಈಗ ಸಕ್ರಿಯವಾಗಿದೆ</string>
+    <string name="current_election">ಪ್ರಸ್ತುತ ಚುನಾವಣೆ</string>
+    <string name="gen_election_2024">ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆ 2024</string>
+    <string name="view_all_candidates">ಎಲ್ಲಾ ಅಭ್ಯರ್ಥಿಗಳನ್ನು ವೀಕ್ಷಿಸಿ</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc">QR ಕೋಡ್ ಅನ್ನು ಫ್ರೇಮ್‌ನೊಳಗೆ ಇರಿಸಿ</string>
+    <string name="open_scanner">ಸ್ಕ್ಯಾನರ್ ತೆರೆಯಿರಿ</string>
+    <string name="qr_verification">QR ದೃಢೀಕರಣ</string>
+    <string name="scanner_icon_desc">ಸ್ಕ್ಯಾನರ್ ಐಕಾನ್</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name">ಅಭ್ಯರ್ಥಿಯ ಹೆಸರು</string>
+    <string name="party_name">ಪಕ್ಷದ ಹೆಸರು</string>
+    <string name="vote">ಮತ</string>
+    <string name="votes">ಮತಗಳು</string>
+    <string name="winner_tag">ವಿಜೇತ</string>
+    <string name="primary_slogan">ನಿಮ್ಮ ಮತ ನಿಮ್ಮ ಧ್ವನಿ</string>
+    <string name="secondary_slogan">ಸುರಕ್ಷಿತ ಡಿಜಿಟಲ್ ಮತದಾನದ ಮೂಲಕ ರಾಷ್ಟ್ರವನ್ನು ಸಬಲೀಕರಣಗೊಳಿಸುವುದು.</string>
+    <string name="telugu_slogan">ನಿಮ್ಮ ಮತ ನಿಮ್ಮ ಹಕ್ಕು</string>
+    <string name="english_slogan">ನಿಮ್ಮ ಮತ ನಿಮ್ಮ ಹಕ್ಕು.</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric">ಬಯೋಮೆಟ್ರಿಕ್ ದೃಢೀಕರಿಸಲಾಗುತ್ತಿದೆ&#8230;</string>
+    <string name="namaste_desc">ನಮಸ್ತೆ ಚಿತ್ರ</string>
+    <string name="fingerprint_desc">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸ್ಕ್ಯಾನರ್</string>
+
+    <!-- Localization -->
+    <string name="select_language">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="search_language">ಭಾಷೆಯನ್ನು ಹುಡುಕಿ&#8230;</string>
+    <string name="english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="telugu">ತೆಲುಗು</string>
+    <string name="hindi">ಕನ್ನಡ</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint">ಇಮೇಲ್ ವಿಳಾಸ</string>
+    <string name="password_hint">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="sign_in">ಸೈನ್ ಇನ್</string>
+    <string name="full_name_hint">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="phone_hint">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="aadhaar_hint">ಆಧಾರ್ ಸಂಖ್ಯೆ</string>
+    <string name="voter_id_hint">ಮತದಾರರ ಐಡಿ</string>
+    <string name="create_password_hint">ಪಾಸ್‌ವರ್ಡ್ ರಚಿಸಿ</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet">ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್ ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="email_required">ಇಮೇಲ್ ಅಗತ್ಯವಿದೆ</string>
+    <string name="valid_email">ಮಾನ್ಯವಾದ ಇಮೇಲ್ ನಮೂದಿಸಿ</string>
+    <string name="password_required">ಪಾಸ್‌ವರ್ಡ್ ಅಗತ್ಯವಿದೆ</string>
+    <string name="authenticating">ದೃಢೀಕರಿಸಲಾಗುತ್ತಿದೆ&#8230;</string>
+    <string name="welcome_back_toast">ಮರಳಿ ಸ್ವಾಗತ!</string>
+    <string name="auth_failed">ದೃಢೀಕರಣ ವಿಫಲವಾಗಿದೆ</string>
+    <string name="fill_all_fields">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ</string>
+    <string name="creating_account">ಸುರಕ್ಷಿತ ಖಾತೆಯನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ&#8230;</string>
+    <string name="reg_success">ನೋಂದಣಿ ಯಶಸ್ವಿಯಾಗಿದೆ!</string>
+    <string name="access_denied_admin">ಪ್ರವೇಶ ನಿರಾಕರಿಸಲಾಗಿದೆ: ಅಡ್ಮಿನ್‌ಗೆ ಮಾತ್ರ</string>
+    <string name="error_label">ದೋಷ</string>
+    <string name="logged_out">ಲಾಗ್ ಔಟ್ ಆಗಿದೆ</string>
+    <string name="voted">ಮತ ಚಲಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="not_voted">ಮತ ಚಲಾಯಿಸಿಲ್ಲ</string>
+    <string name="profile_not_found">ಡೇಟಾಬೇಸ್‌ನಲ್ಲಿ ಪ್ರೊಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ. ಮತ್ತೊಮ್ಮೆ ನೋಂದಾಯಿಸಲು ಪ್ರಯತ್ನಿಸಿ.</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required">ಭದ್ರತಾ ದೋಷ: ಬಳಕೆದಾರರನ್ನು ದೃಢೀಕರಿಸಲಾಗಿಲ್ಲ</string>
+    <string name="checking_status">ಮತದಾನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ&#8230;</string>
+    <string name="multiple_voting_alert">ಭದ್ರತಾ ಎಚ್ಚರಿಕೆ: ಬಹು ಮತದಾನವನ್ನು ನಿಷೇಧಿಸಲಾಗಿದೆ.</string>
+    <string name="network_error">ನೆಟ್‌ವರ್ಕ್ ದೋಷ</string>
+    <string name="loading_candidates">ಅಭ್ಯರ್ಥಿಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ&#8230;</string>
+    <string name="failed_load_candidates">ಅಭ್ಯರ್ಥಿಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ವಿಫಲವಾಗಿದೆ</string>
+    <string name="vote_confirm_msg">%1$s ಅವರಿಗೆ ಮತ ಚಲಾಯಿಸಬೇಕೆ?\nಈ ಕ್ರಮವು ಶಾಶ್ವತವಾಗಿದೆ.</string>
+    <string name="processing_vote">ಮತವನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ&#8230;</string>
+    <string name="already_voted_error">ದೋಷ: ಈಗಾಗಲೇ ಮತ ಚಲಾಯಿಸಲಾಗಿದೆ.</string>
+    <string name="transaction_failed">ವಹಿವಾಟು ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="vote_recorded_success">ಮತವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ದಾಖಲಿಸಲಾಗಿದೆ</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">ಅಡ್ಮಿನ್ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="candidate_mgmt">ಅಭ್ಯರ್ಥಿಗಳ ನಿರ್ವಹಣೆ</string>
+    <string name="add_new_candidate">ಹೊಸ ಅಭ್ಯರ್ಥಿಯನ್ನು ಸೇರಿಸಿ</string>
+    <string name="edit_delete_candidates">ಅಭ್ಯರ್ಥಿಗಳನ್ನು ಸಂಪಾದಿಸಿ / ಅಳಿಸಿ</string>
+    <string name="election_ctrl">ಚುನಾವಣಾ ನಿಯಂತ್ರಣ</string>
+    <string name="start_btn">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="stop_btn">ನಿಲ್ಲಿಸಿ</string>
+    <string name="reset_btn">ಎಲ್ಲಾ ಚುನಾವಣಾ ಡೇಟಾವನ್ನು ಮರುಹೊಂದಿಸಿ</string>
+    <string name="monitoring">ಮೇಲ್ವಿಚಾರಣೆ</string>
+    <string name="view_user_list">ಬಳಕೆದಾರರ ಪಟ್ಟಿಯನ್ನು ವೀಕ್ಷಿಸಿ</string>
+    <string name="real_time_results">ನೈಜ-ಸಮಯದ ಫಲಿತಾಂಶಗಳು</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn">ಸೇರಿಸಿ</string>
+    <string name="cancel_btn">ರದ್ದುಮಾಡಿ</string>
+    <string name="name_party_req">ಹೆಸರು ಮತ್ತು ಪಕ್ಷದ ಮಾಹಿತಿ ಅಗತ್ಯವಿದೆ</string>
+    <string name="candidate_added">ಅಭ್ಯರ್ಥಿಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ</string>
+    <string name="election_started">ಚುನಾವಣೆ ಪ್ರಾರಂಭವಾಗಿದೆ</string>
+    <string name="election_ended">ಚುನಾವಣೆ ಕೊನೆಗೊಂಡಿದೆ</string>
+    <string name="reset_election">ಚುನಾವಣೆಯನ್ನು ಮರುಹೊಂದಿಸಿ</string>
+    <string name="reset_confirm_msg">ಇದು ಎಲ್ಲಾ ಮತಗಳನ್ನು ಅಳಿಸುತ್ತದೆ ಮತ್ತು ಬಳಕೆದಾರರ ಮತದಾನ ಸ್ಥಿತಿಯನ್ನು ಮರುಹೊಂದಿಸುತ್ತದೆ. ಮುಂದುವರಿಯಬೇಕೆ?</string>
+    <string name="reset_complete">ಚುನಾವಣಾ ಮರುಹೊಂದಿಸುವಿಕೆ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+</resources>

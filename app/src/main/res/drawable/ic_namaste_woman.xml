@@ -1,0 +1,101 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Outer Hair/Veil (Odhni) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M50,140 C40,110 45,30 100,25 C155,30 160,110 150,140" />
+
+    <!-- Inner Veil Line -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M65,140 C60,95 62,55 100,50 C138,55 140,95 135,140" />
+
+    <!-- Face Profile -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M80,65 C80,65 85,55 100,55 C115,55 120,65 120,65" />
+
+    <!-- Eyes (Closed) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M82,82 C85,78 92,78 95,82" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M105,82 C108,78 115,78 118,82" />
+
+    <!-- Bindi -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M100,68 A3,3 0 1,1 100,62 A3,3 0 1,1 100,68" />
+
+    <!-- Namaste Hands (Folded) -->
+    <path
+        android:strokeColor="#4FC3F7"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M100,85 L85,135 L100,165 L115,135 Z" />
+    <path
+        android:strokeColor="#4FC3F7"
+        android:strokeWidth="1.2"
+        android:pathData="M92,135 L108,135" />
+
+    <!-- Bangles (Wrists) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M80,155 C70,165 70,185 85,195" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M120,155 C130,165 130,185 115,195" />
+
+    <!-- Jewelry/Tassels on Bangles -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M70,175 L62,190" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,195 A2.5,2.5 0 1,1 62,190 A2.5,2.5 0 1,1 62,195" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M130,175 L138,190" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M138,195 A2.5,2.5 0 1,1 138,190 A2.5,2.5 0 1,1 138,195" />
+
+    <!-- Earrings (Jhumkas) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:pathData="M65,105 C60,110 60,125 65,130" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,135 A2,2 0 1,1 65,131 A2,2 0 1,1 65,135" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:pathData="M135,105 C140,110 140,125 135,130" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M135,135 A2,2 0 1,1 135,131 A2,2 0 1,1 135,135" />
+
+</vector>

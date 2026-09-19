@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DVote System</string>
+    <string name="nav_home" translatable="false">Home</string>
+    <string name="nav_vote" translatable="false">Vote</string>
+    <string name="nav_results" translatable="false">Results</string>
+    <string name="nav_profile" translatable="false">Profile</string>
+    <string name="election_status" translatable="false">ELECTION STATUS</string>
+    <string name="quick_actions" translatable="false">Quick Actions</string>
+    <string name="admin_dashboard_upper" translatable="false">ADMIN DASHBOARD</string>
+
+    <!-- Authentication & Onboarding -->
+    <string name="welcome_back" translatable="false">Welcome Back,</string>
+    <string name="sign_in_to_continue" translatable="false">Sign in to continue</string>
+    <string name="create_account" translatable="false">Create Account</string>
+    <string name="create_new_account" translatable="false">Create New Account</string>
+    <string name="already_have_account" translatable="false">Already have an account? Login</string>
+    <string name="join_secure_voting" translatable="false">Join the secure voting platform</string>
+    <string name="secure_transparent_digital" translatable="false">SECURE • TRANSPARENT • DIGITAL</string>
+    <string name="secure_access" translatable="false">Secure Access</string>
+    <string name="authenticate_desc" translatable="false">Authenticate to verify your identity</string>
+    <string name="authenticate_now" translatable="false">AUTHENTICATE NOW</string>
+
+    <!-- Main Features -->
+    <string name="elections" translatable="false">Elections</string>
+    <string name="verify_voter_qr" translatable="false">Verify Voter QR</string>
+    <string name="cast_vote" translatable="false">Cast Vote</string>
+    <string name="live_results" translatable="false">Live Results</string>
+    <string name="live_counting" translatable="false">LIVE COUNTING</string>
+    <string name="election_results" translatable="false">Election Results</string>
+    <string name="select_preferred_candidate" translatable="false">Select your preferred candidate</string>
+    <string name="my_profile" translatable="false">My Profile</string>
+    <string name="voting_status" translatable="false">VOTING STATUS</string>
+    <string name="active_now" translatable="false">Active Now</string>
+    <string name="current_election" translatable="false">Current Election</string>
+    <string name="gen_election_2024" translatable="false">General Election 2024</string>
+    <string name="view_all_candidates" translatable="false">VIEW ALL CANDIDATES</string>
+
+    <!-- QR & Scanning -->
+    <string name="align_qr_desc" translatable="false">Align QR Code inside the frame</string>
+    <string name="open_scanner" translatable="false">OPEN SCANNER</string>
+    <string name="qr_verification" translatable="false">QR Verification</string>
+    <string name="scanner_icon_desc" translatable="false">Scanner Icon</string>
+
+    <!-- Candidate & Voting -->
+    <string name="candidate_name" translatable="false">Candidate Name</string>
+    <string name="party_name" translatable="false">Party Name</string>
+    <string name="vote" translatable="false">VOTE</string>
+    <string name="votes" translatable="false">votes</string>
+    <string name="winner_tag" translatable="false">WINNER</string>
+    <string name="primary_slogan" translatable="false">Your Vote is Your Voice</string>
+    <string name="secondary_slogan" translatable="false">Empowering the nation through secure digital voting.</string>
+    <string name="telugu_slogan" translatable="false">మీ ఓటు మీ హక్కు</string>
+    <string name="english_slogan" translatable="false">Your vote, your right.</string>
+
+    <!-- Biometric Animation -->
+    <string name="verifying_biometric" translatable="false">Verifying biometric&#8230;</string>
+    <string name="namaste_desc" translatable="false">Namaste Illustration</string>
+    <string name="fingerprint_desc" translatable="false">Fingerprint Scanner</string>
+
+    <!-- Localization -->
+    <string name="select_language" translatable="false">Select Language</string>
+    <string name="search_language" translatable="false">Search Language&#8230;</string>
+    <string name="english" translatable="false">English</string>
+    <string name="telugu" translatable="false">తెలుగు</string>
+    <string name="hindi" translatable="false">हिन्दी</string>
+    <string name="assamese" translatable="false">অসমীয়া</string>
+    <string name="bengali" translatable="false">বাংলা</string>
+    <string name="bodo" translatable="false">बर’</string>
+    <string name="dogri" translatable="false">डोगरी</string>
+    <string name="gujarati" translatable="false">ગુજરાતી</string>
+    <string name="kannada" translatable="false">ಕನ್ನಡ</string>
+    <string name="kashmiri" translatable="false">कॅशुर</string>
+    <string name="konkani" translatable="false">कोंकणी</string>
+    <string name="maithili" translatable="false">मैथिली</string>
+    <string name="malayalam" translatable="false">മലയാളം</string>
+    <string name="manipuri" translatable="false">মৈতেইলোন</string>
+    <string name="marathi" translatable="false">मराठी</string>
+    <string name="nepali" translatable="false">नेपाली</string>
+    <string name="odia" translatable="false">ଓଡ଼ିଆ</string>
+    <string name="punjabi" translatable="false">ਪੰਜਾਬੀ</string>
+    <string name="sanskrit" translatable="false">संस्कृतम्</string>
+    <string name="santali" translatable="false">संताली</string>
+    <string name="sindhi" translatable="false">سنڌي</string>
+    <string name="tamil" translatable="false">தமிழ்</string>
+    <string name="urdu" translatable="false">اردو</string>
+
+    <!-- Form Hints -->
+    <string name="email_hint" translatable="false">Email Address</string>
+    <string name="password_hint" translatable="false">Password</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="full_name_hint" translatable="false">Full Name</string>
+    <string name="phone_hint" translatable="false">Phone Number</string>
+    <string name="aadhaar_hint" translatable="false">Aadhaar Number</string>
+    <string name="voter_id_hint" translatable="false">Voter ID</string>
+    <string name="create_password_hint" translatable="false">Create Password</string>
+
+    <!-- Status & Feedback -->
+    <string name="no_internet" translatable="false">No internet connection. Please check your network.</string>
+    <string name="email_required" translatable="false">Email is required</string>
+    <string name="valid_email" translatable="false">Enter a valid email</string>
+    <string name="password_required" translatable="false">Password is required</string>
+    <string name="authenticating" translatable="false">Authenticating&#8230;</string>
+    <string name="welcome_back_toast" translatable="false">Welcome Back!</string>
+    <string name="auth_failed" translatable="false">Authentication failed</string>
+    <string name="fill_all_fields" translatable="false">Please fill all fields</string>
+    <string name="creating_account" translatable="false">Creating secure account&#8230;</string>
+    <string name="reg_success" translatable="false">Registration Successful!</string>
+    <string name="access_denied_admin" translatable="false">Access Denied: Admin Only</string>
+    <string name="error_label" translatable="false">Error</string>
+    <string name="logged_out" translatable="false">Logged out</string>
+    <string name="voted" translatable="false">Voted</string>
+    <string name="not_voted" translatable="false">Not Voted</string>
+    <string name="profile_not_found" translatable="false">Profile not found in database. Try registering again.</string>
+
+    <!-- Secure Voting Process -->
+    <string name="auth_required" translatable="false">Security Error: User not authenticated</string>
+    <string name="checking_status" translatable="false">Checking voting status&#8230;</string>
+    <string name="multiple_voting_alert" translatable="false">Security Alert: Multiple voting prohibited.</string>
+    <string name="network_error" translatable="false">Network Error</string>
+    <string name="loading_candidates" translatable="false">Loading candidates&#8230;</string>
+    <string name="failed_load_candidates" translatable="false">Failed to load candidates</string>
+    <string name="vote_confirm_msg" translatable="false">Vote for %1$s?\nThis action is permanent.</string>
+    <string name="processing_vote" translatable="false">Processing vote securely&#8230;</string>
+    <string name="already_voted_error" translatable="false">Error: Vote already cast.</string>
+    <string name="transaction_failed" translatable="false">Transaction Failed.</string>
+    <string name="vote_recorded_success" translatable="false">Vote Recorded Successfully</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard" translatable="false">Admin Dashboard</string>
+    <string name="candidate_mgmt" translatable="false">Candidate Management</string>
+    <string name="add_new_candidate" translatable="false">Add New Candidate</string>
+    <string name="edit_delete_candidates" translatable="false">Edit / Delete Candidates</string>
+    <string name="election_ctrl" translatable="false">Election Control</string>
+    <string name="start_btn" translatable="false">START</string>
+    <string name="stop_btn" translatable="false">STOP</string>
+    <string name="reset_btn" translatable="false">RESET ALL ELECTION DATA</string>
+    <string name="monitoring" translatable="false">Monitoring</string>
+    <string name="view_user_list" translatable="false">View User List</string>
+    <string name="real_time_results" translatable="false">Real-time Results</string>
+
+    <!-- Dialog Actions -->
+    <string name="add_btn" translatable="false">Add</string>
+    <string name="cancel_btn" translatable="false">Cancel</string>
+    <string name="name_party_req" translatable="false">Name and Party are required</string>
+    <string name="candidate_added" translatable="false">Candidate Added</string>
+    <string name="election_started" translatable="false">Election Started</string>
+    <string name="election_ended" translatable="false">Election Ended</string>
+    <string name="reset_election" translatable="false">Reset Election</string>
+    <string name="reset_confirm_msg" translatable="false">This will clear all votes and reset user voting status. Continue?</string>
+    <string name="reset_complete" translatable="false">Election Reset Complete</string>
+
+    <!-- Location Based Features -->
+    <string name="detecting_location" translatable="false">Detecting your location&#8230;</string>
+    <string name="location_required_title" translatable="false">Location Access Required</string>
+    <string name="location_required_msg" translatable="false">To show you the correct elections for your region, we need access to your location.</string>
+    <string name="grant_permission" translatable="false">GRANT PERMISSION</string>
+    <string name="location_denied_msg" translatable="false">Location permission is required to filter elections by your state.</string>
+    <string name="gps_disabled_msg" translatable="false">Please enable GPS to detect your location.</string>
+    <string name="state_label" translatable="false">State: %1$s</string>
+    <string name="district_city_label" translatable="false">%1$s, %2$s</string>
+    <string name="last_updated" translatable="false">Last Updated: %1$s</string>
+    <string name="welcome_back_emoji" translatable="false">👋 Welcome Back,</string>
+    <string name="election_active_status" translatable="false">ELECTION ACTIVE</string>
+    <string name="ends_in_format" translatable="false">Ends in %1$s</string>
+    <string name="admin_console_label" translatable="false">ADMIN CONSOLE</string>
+</resources>
