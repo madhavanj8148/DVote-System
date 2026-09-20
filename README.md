@@ -155,17 +155,17 @@ DVoteSystem/
 
 | Name | Role |
 |------|------|
-| Developer 1 | Android Development / Firebase Integration |
-| Developer 2 | React Admin Portal / UI-UX Design |
+| Vemuri Charishma | Android Development / Firebase Integration |
+| Paladugula Madhavan | React Admin Portal / UI-UX Design |
 
 ---
 
 ## 🎓 Academic Project
 This project was developed as part of the B.Tech Final Year curriculum.
-*   **College**: [Insert College Name]
-*   **Department**: [Insert Department]
-*   **Project Guide**: [Insert Guide Name]
-
+*   **College**: Vellore Institute of Technology, Andhra Pradesh
+*   **Department**:Computer Science and Engineering (CSE) with Data Analytics
+*   **Prepared by**:Paladugula Madhavan
+*   **Prepared by**:Vemuri Charishma
 ---
 
 ## 📄 License
